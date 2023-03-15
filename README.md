@@ -1,0 +1,2 @@
+# sample_nordic_application
+sample_nordic_aplication
